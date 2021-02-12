@@ -37,6 +37,9 @@ angelica_global:
 angelica_id_global:
 - Redmi 9C Indonesia
 - ANGELICAIDGlobal
+angelica_tr_global:
+- Redmi 9C Turkey
+- ANGELICATRGlobal
 angelicain_in_global:
 - POCO C3 India
 - ANGELICAININGlobal
@@ -70,6 +73,9 @@ apollo_ru_global:
 apollo_tr_global:
 - Mi 10T / Mi 10T Pro Turkey
 - APOLLOTRGlobal
+apollo_tw_global:
+- Mi 10T / Mi 10T Pro Taiwan
+- APOLLOTWGlobal
 aqua:
 - MI 4S China
 - MI4s
@@ -133,6 +139,30 @@ cancro_global:
 cancro_lte_ct:
 - MI 4 LTE CT China
 - MI4LTECT
+cannon:
+- Redmi Note 9 5G China
+- CANNON
+cannong_eea_global:
+- Redmi Note 9T EEA
+- CANNONGEEAGlobal
+cannong_global:
+- Redmi Note 9T Global
+- CANNONGGlobal
+cannong_id_global:
+- Redmi Note 9T Indonesia
+- CANNONGIDGlobal
+cannong_in_global:
+- Redmi Note 9T India
+- CANNONGINGlobal
+cannong_ru_global:
+- Redmi Note 9T Russia
+- CANNONGRUGlobal
+cannong_tr_global:
+- Redmi Note 9T Turkey
+- CANNONGTRGlobal
+cannong_tw_global:
+- Redmi Note 9T Taiwan
+- CANNONGTWGlobal
 cappu:
 - Mi Pad 3 China
 - MIPAD3
@@ -178,6 +208,27 @@ chiron:
 chiron_global:
 - Mi MIX 2 Global
 - MIMIX2Global
+citrus_eea_global:
+- POCO M3 EEA
+- CITRUSEEAGlobal
+citrus_global:
+- POCO M3 Global
+- CITRUSGlobal
+citrus_id_global:
+- POCO M3 Indonesia
+- CITRUSIDGlobal
+citrus_in_global:
+- POCO M3 India
+- CITRUSINGlobal
+citrus_ru_global:
+- POCO M3 Russia
+- CITRUSRUGlobal
+citrus_tr_global:
+- POCO M3 Turkey
+- CITRUSTRGlobal
+citrus_tw_global:
+- POCO M3 Taiwan
+- CITRUSTWGlobal
 clover:
 - Mi Pad 4 (Plus) China
 - MIPAD4
@@ -229,6 +280,9 @@ dandelion_in_global:
 dandelion_ru_global:
 - Redmi 9A Russia
 - DANDELIONRUGlobal
+dandelion_tr_global:
+- Redmi 9A Turkey
+- DANDELIONTRGlobal
 davinci:
 - Redmi K20 China
 - DAVINCI
@@ -277,12 +331,24 @@ ferrari:
 ferrari_global:
 - MI 4i Global
 - MI4iGlobal
+gauguin:
+- Redmi Note 9 Pro 5G China
+- GAUGUIN
 gauguin_eea_global:
 - Mi 10T Lite EEA
 - GAUGUINEEAGlobal
 gauguin_global:
 - Mi 10T Lite Global
 - GAUGUINGlobal
+gauguin_in_global:
+- Mi 10i India
+- GAUGUININGlobal
+gauguin_ru_global:
+- Mi 10T Lite Russia
+- GAUGUINRUGlobal
+gauguin_tw_global:
+- Mi 10T Lite Taiwan
+- GAUGUINTWGlobal
 gemini:
 - MI 5 China
 - MI5
@@ -292,6 +358,9 @@ gemini_global:
 ginkgo:
 - Redmi Note 8 China
 - GINKGO
+ginkgo_eea_global:
+- Redmi Note 8 EEA
+- GINKGOEEAGlobal
 ginkgo_global:
 - Redmi Note 8 Global
 - GINKGOGlobal
@@ -373,6 +442,9 @@ joyeuse_ru_global:
 joyeuse_tr_global:
 - Redmi Note 9 Pro Turkey
 - JOYEUSETRGlobal
+joyeuse_tw_global:
+- Redmi Note 9 Pro Taiwan
+- JOYEUSETWGlobal
 kate_global:
 - Redmi Note 3 SE Global
 - HMNote3ProtwGlobal
@@ -400,6 +472,9 @@ lancelot_in_global:
 lancelot_ru_global:
 - Redmi 9 Russia
 - LANCELOTRUGlobal
+lancelot_tr_global:
+- Redmi 9 Turkey
+- LANCELOTTRGlobal
 land:
 - Redmi 3S China
 - HM3S
@@ -448,6 +523,27 @@ leo:
 libra:
 - Mi 4c China
 - MI4c
+lime:
+- Redmi Note 9 4G China
+- LIME
+lime_eea_global:
+- Redmi 9T EEA
+- LIMEEEAGlobal
+lime_global:
+- Redmi 9T Global
+- LIMEGlobal
+lime_id_global:
+- Redmi 9T Indonesia
+- LIMEIDGlobal
+lime_in_global:
+- Redmi 9 Power India
+- LIMEINGlobal
+lime_tr_global:
+- Redmi 9T Turkey
+- LIMETRGlobal
+lime_tw_global:
+- Redmi 9T Taiwan
+- LIMETWGlobal
 lithium:
 - Mi MIX China
 - MIMIX
@@ -511,6 +607,9 @@ merlin_ru_global:
 merlin_tr_global:
 - Redmi Note 9 Turkey
 - MERLINTRGlobal
+merlin_tw_global:
+- Redmi Note 9 Taiwan
+- MERLINTWGlobal
 mido:
 - Redmi Note 4 China
 - HMNote4X
@@ -532,6 +631,9 @@ monet_eea_global:
 monet_global:
 - Mi 10 Lite Global
 - MONETGlobal
+monet_tw_global:
+- Mi 10 Lite Taiwan
+- MONETTWGlobal
 natrium:
 - Mi 5s Plus China
 - MI5SPlus
@@ -877,6 +979,27 @@ vangogh:
 vela:
 - Mi CC 9 Meitu Edition China
 - VELA
+venus:
+- Mi 11 China
+- VENUS
+venus_eea_global:
+- Mi 11 EEA
+- VENUSEEAGlobal
+venus_global:
+- Mi 11 Global
+- VENUSGlobal
+venus_in_global:
+- Mi 11 India
+- VENUSINGlobal
+venus_ru_global:
+- Mi 11 Russia
+- VENUSRUGlobal
+venus_tr_global:
+- Mi 11 Turkey
+- VENUSTRGlobal
+venus_tw_global:
+- Mi 11 Taiwan
+- VENUSTWGlobal
 vince:
 - Redmi 5 Plus China
 - HM5Plus
