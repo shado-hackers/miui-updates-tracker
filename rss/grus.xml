@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Mi 9 SE MIUI Updates Tracker by XiaomiFirmwareUpdater</title><link>https://xiaomifirmwareupdater.com/miui/grus</link><description>Your best website to track MIUI ROM releases!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://xiaomifirmwareupdater.com/images/xfu.png</url><title>Mi 9 SE MIUI Updates Tracker by XiaomiFirmwareUpdater</title><link>https://xiaomifirmwareupdater.com/miui/grus</link></image><language>en</language><lastBuildDate>Fri, 12 Mar 2021 10:08:13 +0000</lastBuildDate><item><title>MIUI 9.6.27 Recovery update for Mi 9 SE Global</title><link>https://bigota.d.miui.com/9.6.27/miui_GRUSGlobal_9.6.27_ac3b29af09_9.0.zip</link><description>&lt;p&lt;b&gt;New Weekly Recovery update available!&lt;/b&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Mi 9 SE MIUI Updates Tracker by XiaomiFirmwareUpdater</title><link>https://xiaomifirmwareupdater.com/miui/grus</link><description>Your best website to track MIUI ROM releases!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://xiaomifirmwareupdater.com/images/xfu.png</url><title>Mi 9 SE MIUI Updates Tracker by XiaomiFirmwareUpdater</title><link>https://xiaomifirmwareupdater.com/miui/grus</link></image><language>en</language><lastBuildDate>Tue, 23 Mar 2021 04:10:35 +0000</lastBuildDate><item><title>MIUI 9.6.27 Recovery update for Mi 9 SE Global</title><link>https://bigota.d.miui.com/9.6.27/miui_GRUSGlobal_9.6.27_ac3b29af09_9.0.zip</link><description>&lt;p&lt;b&gt;New Weekly Recovery update available!&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Device:&lt;/b&gt; Mi 9 SE Global&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Codename:&lt;/b&gt; grus&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 9.6.27 | 9.0&lt;/p&gt;
@@ -20,14 +20,14 @@
 &lt;p&gt;&lt;b&gt;Size:&lt;/b&gt; 3.3 GB&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;MD5:&lt;/b&gt; 9d9ea95af36158aca8ef72ef0680596b&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;Bug fixes and system optimizations.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/9.9.3/grus_images_9.9.3_20190904.0000.00_9.0_cn_9d9ea95af3.tgz'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate></item><item><title>MIUI 21.3.10 Recovery update for Mi 9 SE China</title><link>https://bigota.d.miui.com/21.3.10/miui_GRUS_21.3.10_90008aad40_11.0.zip</link><description>&lt;p&lt;b&gt;New Weekly Recovery update available!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/9.9.3/grus_images_9.9.3_20190904.0000.00_9.0_cn_9d9ea95af3.tgz'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 04 Sep 2019 00:00:00 +0000</pubDate></item><item><title>MIUI 21.3.17 Recovery update for Mi 9 SE China</title><link>https://bigota.d.miui.com/21.3.17/miui_GRUS_21.3.17_9415bcfa03_11.0.zip</link><description>&lt;p&lt;b&gt;New Weekly Recovery update available!&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Device:&lt;/b&gt; Mi 9 SE China&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Codename:&lt;/b&gt; grus&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 21.3.10 | 11.0&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Size:&lt;/b&gt; 2.6 GB&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;MD5:&lt;/b&gt; 90008aad40612f61d9333e6f9c58424c&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; 21.3.17 | 11.0&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Size:&lt;/b&gt; 2.7 GB&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;MD5:&lt;/b&gt; 9415bcfa03efbd667feaa90a7f9478fc&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;Bug fixes and system optimizations.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/21.3.10/miui_GRUS_21.3.10_90008aad40_11.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Incremental Update:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/21.3.10/miui-blockota-apollo-21.3.9-21.3.10-220be56529-11.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Thu, 11 Mar 2021 00:00:00 +0000</pubDate></item><item><title>MIUI V12.0.3.0.QFBCNXM Fastboot update for Mi 9 SE China</title><link>https://bigota.d.miui.com/V12.0.3.0.QFBCNXM/grus_images_V12.0.3.0.QFBCNXM_20201123.0000.00_10.0_cn_30608ec69f.tgz</link><description>&lt;p&lt;b&gt;New Stable Fastboot update available!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/21.3.17/miui_GRUS_21.3.17_9415bcfa03_11.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Incremental Update:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/21.3.17/miui-blockota-cepheus-21.3.16-21.3.17-8674a319c9-11.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 17 Mar 2021 00:00:00 +0000</pubDate></item><item><title>MIUI V12.0.3.0.QFBCNXM Fastboot update for Mi 9 SE China</title><link>https://bigota.d.miui.com/V12.0.3.0.QFBCNXM/grus_images_V12.0.3.0.QFBCNXM_20201123.0000.00_10.0_cn_30608ec69f.tgz</link><description>&lt;p&lt;b&gt;New Stable Fastboot update available!&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Device:&lt;/b&gt; Mi 9 SE China&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Codename:&lt;/b&gt; grus&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; V12.0.3.0.QFBCNXM | 10.0&lt;/p&gt;
@@ -83,4 +83,25 @@
 &lt;p&gt;&lt;b&gt;Size:&lt;/b&gt; 2.5 GB&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;MD5:&lt;/b&gt; 6954599fc339712eae6aee626fa01ca7&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;[Control center]&lt;br&gt;Optimization: Control center layout in landscape mode&lt;br&gt;[System]&lt;br&gt;Optimization: Updated Android Security Patch to December 2020. Increased system security.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.2.0.QFBRUXM/miui_GRUSRUGlobal_V12.0.2.0.QFBRUXM_6954599fc3_10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Incremental Update:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.2.0.QFBRUXM/miui-blockota-grus_ru_global-V12.0.1.0.QFBRUXM-V12.0.2.0.QFBRUXM-fb1e9081eb-10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate></item></channel></rss>
+&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.2.0.QFBRUXM/miui_GRUSRUGlobal_V12.0.2.0.QFBRUXM_6954599fc3_10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Incremental Update:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.2.0.QFBRUXM/miui-blockota-grus_ru_global-V12.0.1.0.QFBRUXM-V12.0.2.0.QFBRUXM-fb1e9081eb-10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate></item><item><title>MIUI V12.0.4.0.QFBEUXM Recovery update for Mi 9 SE EEA</title><link>https://bigota.d.miui.com/V12.0.4.0.QFBEUXM/miui_GRUSEEAGlobal_V12.0.4.0.QFBEUXM_fe7f382466_10.0.zip</link><description>&lt;p&lt;b&gt;New Stable Beta Recovery update available!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Device:&lt;/b&gt; Mi 9 SE EEA&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Codename:&lt;/b&gt; grus&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; V12.0.4.0.QFBEUXM | 10.0&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Size:&lt;/b&gt; 2.5 GB&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;MD5:&lt;/b&gt; fe7f3824664adf9075eac3b7e915a00b&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;[System]&lt;br&gt;Updated Android Security Patch to February 2021. Increased system security.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.4.0.QFBEUXM/miui_GRUSEEAGlobal_V12.0.4.0.QFBEUXM_fe7f382466_10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Incremental Update:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.4.0.QFBEUXM/miui-blockota-grus_eea_global-V12.0.3.0.QFBEUXM-V12.0.4.0.QFBEUXM-32e15f0904-10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate></item><item><title>MIUI V12.0.4.0.QFBMIXM Recovery update for Mi 9 SE Global</title><link>https://bigota.d.miui.com/V12.0.4.0.QFBMIXM/miui_GRUSGlobal_V12.0.4.0.QFBMIXM_429a2a78a5_10.0.zip</link><description>&lt;p&lt;b&gt;New Stable Beta Recovery update available!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Device:&lt;/b&gt; Mi 9 SE Global&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Codename:&lt;/b&gt; grus&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; V12.0.4.0.QFBMIXM | 10.0&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Size:&lt;/b&gt; 2.5 GB&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;MD5:&lt;/b&gt; 429a2a78a5118673eb39f6d9a849deca&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;[System]&lt;br&gt;Updated Android Security Patch to March 2021. Increased system security.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.4.0.QFBMIXM/miui_GRUSGlobal_V12.0.4.0.QFBMIXM_429a2a78a5_10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Incremental Update:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.4.0.QFBMIXM/miui-blockota-grus_global-V12.0.3.0.QFBMIXM-V12.0.4.0.QFBMIXM-625c2febf8-10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Fri, 19 Mar 2021 00:00:00 +0000</pubDate></item><item><title>MIUI V12.0.3.0.QFBRUXM Recovery update for Mi 9 SE Russia</title><link>https://bigota.d.miui.com/V12.0.3.0.QFBRUXM/miui_GRUSRUGlobal_V12.0.3.0.QFBRUXM_82e97fe15e_10.0.zip</link><description>&lt;p&lt;b&gt;New Stable Beta Recovery update available!&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Device:&lt;/b&gt; Mi 9 SE Russia&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Codename:&lt;/b&gt; grus&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Version:&lt;/b&gt; V12.0.3.0.QFBRUXM | 10.0&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Size:&lt;/b&gt; 2.5 GB&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;MD5:&lt;/b&gt; 82e97fe15e5ae20bbc18f04d0a081cc3&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Changelog:&lt;/b&gt;&lt;br&gt;[System]&lt;br&gt;Updated Android Security Patch to March 2021. Increased system security.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Download:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.3.0.QFBRUXM/miui_GRUSRUGlobal_V12.0.3.0.QFBRUXM_82e97fe15e_10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;Incremental Update:&lt;/b&gt; &lt;a href='https://bigota.d.miui.com/V12.0.3.0.QFBRUXM/miui-blockota-grus_ru_global-V12.0.2.0.QFBRUXM-V12.0.3.0.QFBRUXM-8ddb6712ea-10.0.zip'&gt;Here&lt;/a&gt;&lt;/p&gt;</description><pubDate>Mon, 22 Mar 2021 00:00:00 +0000</pubDate></item></channel></rss>
