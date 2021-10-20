@@ -19,6 +19,30 @@ HM2014811:
 HM2014813:
 - Redmi 2 LTE China
 - HM2014813
+agate:
+- Xiaomi 11T China
+- AGATE
+agate_eea_global:
+- Xiaomi 11T EEA
+- AGATEEEAGlobal
+agate_global:
+- Xiaomi 11T Global
+- AGATEGlobal
+agate_id_global:
+- Xiaomi 11T Indonesia
+- AGATEIDGlobal
+agate_in_global:
+- Xiaomi 11T India
+- AGATEINGlobal
+agate_ru_global:
+- Xiaomi 11T Russia
+- AGATERUGlobal
+agate_tr_global:
+- Xiaomi 11T Turkey
+- AGATETRGlobal
+agate_tw_global:
+- Xiaomi 11T Taiwan
+- AGATETWGlobal
 alioth:
 - Redmi K40 China
 - ALIOTH
@@ -65,7 +89,7 @@ angelica_tr_global:
 - Redmi 9C Turkey
 - ANGELICATRGlobal
 angelicain_in_global:
-- POCO C3 India
+- POCO C3 / C31 India
 - ANGELICAININGlobal
 angelican_eea_global:
 - Redmi 9C NFC EEA
@@ -103,6 +127,12 @@ apollo_tw_global:
 aqua:
 - MI 4S China
 - MI4s
+ares:
+- Redmi K40 Gaming China
+- ARES
+ares_in_global:
+- POCO F3 GT India
+- ARESINGlobal
 aries:
 - MI 2S China
 - MI2
@@ -142,6 +172,15 @@ beryllium_global:
 beryllium_ru_global:
 - POCO F1 Russia
 - POCOF1RUGlobal
+biloba_eea_global:
+- Redmi Note 8 (2021) EEA
+- BILOBAEEAGlobal
+biloba_global:
+- Redmi Note 8 (2021) Global
+- BILOBAGlobal
+biloba_ru_global:
+- Redmi Note 8 (2021) Russia
+- BILOBARUGlobal
 bomb:
 - Redmi 10X Pro China
 - BOMB
@@ -158,7 +197,7 @@ camellia:
 - Redmi Note 10 5G China
 - CAMELLIA
 camellia_in_global:
-- Redmi Note 10 5G India
+- Redmi Note 10T 5G / POCO M3 Pro 5G India
 - CAMELLIAINGlobal
 camellian_eea_global:
 - Redmi Note 10 5G EEA
@@ -170,7 +209,7 @@ camellian_id_global:
 - Redmi Note 10 5G Indonesia
 - CAMELLIANIDGlobal
 camellian_ru_global:
-- Redmi Note 10 5G Russia
+- Redmi Note 10T / POCO M3 Pro Russia
 - CAMELLIANRUGlobal
 camellian_tr_global:
 - Redmi Note 10 5G Turkey
@@ -224,7 +263,7 @@ cas:
 - Mi 10 Ultra China
 - CAS
 cattail_in_global:
-- Redmi 9 India
+- Redmi 9 / 9 Activ India
 - CATTAILINGlobal
 cepheus:
 - Mi 9 China
@@ -247,6 +286,9 @@ cereus_global:
 cereus_ru_global:
 - Redmi 6 Russia
 - HM6RUGlobal
+cetus:
+- Mi MIX Fold China
+- CETUS
 cezanne:
 - Redmi K30 Ultra China
 - CEZANNE
@@ -256,6 +298,21 @@ chiron:
 chiron_global:
 - Mi MIX 2 Global
 - MIMIX2Global
+chopin:
+- Redmi Note 10 Pro 5G China
+- CHOPIN
+chopin_global:
+- POCO X3 GT Global
+- CHOPINGlobal
+chopin_id_global:
+- POCO X3 GT Indonesia
+- CHOPINIDGlobal
+chopin_in_global:
+- POCO X3 GT India
+- CHOPININGlobal
+chopin_tr_global:
+- POCO X3 GT Turkey
+- CHOPINTRGlobal
 citrus_eea_global:
 - POCO M3 EEA
 - CITRUSEEAGlobal
@@ -341,7 +398,7 @@ dandelion_id_global:
 - Redmi 9A Indonesia
 - DANDELIONIDGlobal
 dandelion_in_global:
-- Redmi 9A India
+- Redmi 9A / 9i / 9A Sport India
 - DANDELIONINGlobal
 dandelion_ru_global:
 - Redmi 9A Russia
@@ -379,6 +436,12 @@ dipper_global:
 dipper_ru_global:
 - Mi 8 Russia
 - MI8RUGlobal
+elish:
+- Xiaomi Pad 5 Pro Wi-Fi China
+- ELISH
+enuma:
+- Xiaomi Pad 5 Pro 5G China
+- ENUMA
 equuleus:
 - Mi 8 Pro China
 - MI8UD
@@ -436,6 +499,9 @@ ginkgo_id_global:
 ginkgo_in_global:
 - Redmi Note 8 India
 - GINKGOINGlobal
+ginkgo_ru_global:
+- Redmi Note 8 Russia
+- GINKGORUGlobal
 gram_in_global:
 - POCO M2 Pro India
 - GRAMINGlobal
@@ -458,28 +524,28 @@ gucci_global:
 - Redmi Note 1S 4G Global
 - HMNote1SGlobal
 haydn:
-- Redmi K40 Pro China
+- Redmi K40 Pro / Pro+ China
 - HAYDN
 haydn_eea_global:
-- POCO F3 Pro EEA
+- Mi 11i EEA
 - HAYDNEEAGlobal
 haydn_global:
-- POCO F3 Pro Global
+- Mi 11i Global
 - HAYDNGlobal
 haydn_id_global:
-- POCO F3 Pro Indonesia
+- Mi 11i Indonesia
 - HAYDNIDGlobal
 haydn_in_global:
 - Mi 11X Pro India
 - HAYDNINGlobal
 haydn_ru_global:
-- POCO F3 Pro Turkey
+- Mi 11i Russia
 - HAYDNRUGlobal
 haydn_tr_global:
-- POCO F3 Pro Russia
+- Mi 11i Turkey
 - HAYDNTRGlobal
 haydn_tw_global:
-- POCO F3 Pro Taiwan
+- Mi 11i Taiwan
 - HAYDNTWGlobal
 helium:
 - Mi Max Prime China
@@ -628,12 +694,39 @@ lime_id_global:
 lime_in_global:
 - Redmi 9 Power India
 - LIMEINGlobal
+lime_ru_global:
+- Redmi 9T Russia
+- LIMERUGlobal
 lime_tr_global:
 - Redmi 9T Turkey
 - LIMETRGlobal
 lime_tw_global:
 - Redmi 9T Taiwan
 - LIMETWGlobal
+lisa:
+- Xiaomi 11 Lite 5G NE China
+- LISA
+lisa_eea_global:
+- Xiaomi 11 Lite 5G NE EEA
+- LISAEEAGlobal
+lisa_global:
+- Xiaomi 11 Lite 5G NE Global
+- LISAGlobal
+lisa_id_global:
+- Xiaomi 11 Lite 5G NE Indonesia
+- LISAIDGlobal
+lisa_in_global:
+- Xiaomi 11 Lite 5G NE India
+- LISAINGlobal
+lisa_ru_global:
+- Xiaomi 11 Lite 5G NE Russia
+- LISARUGlobal
+lisa_tr_global:
+- Xiaomi 11 Lite 5G NE Turkey
+- LISATRGlobal
+lisa_tw_global:
+- Xiaomi 11 Lite 5G NE Taiwan
+- LISATWGlobal
 lithium:
 - Mi MIX China
 - MIMIX
@@ -655,6 +748,9 @@ lmi_id_global:
 lmi_ru_global:
 - POCO F2 Pro Russia
 - LMIRUGlobal
+lmi_tr_global:
+- POCO F2 Pro Turkey
+- LMITRGlobal
 lotus:
 - Mi Play China
 - MIPLAY
@@ -721,6 +817,9 @@ mojito_eea_global:
 mojito_global:
 - Redmi Note 10 Global
 - MOJITOGlobal
+mojito_id_global:
+- Redmi Note 10 Indonesia
+- MOJITOIDGlobal
 mojito_in_global:
 - Redmi Note 10 India
 - MOJITOINGlobal
@@ -730,6 +829,9 @@ mojito_ru_global:
 mojito_tr_global:
 - Redmi Note 10 Turkey
 - MOJITOTRGlobal
+mona:
+- Xiaomi Civi China
+- MONA
 monet_eea_global:
 - Mi 10 Lite EEA
 - MONETEEAGlobal
@@ -739,6 +841,24 @@ monet_global:
 monet_tw_global:
 - Mi 10 Lite Taiwan
 - MONETTWGlobal
+nabu:
+- Xiaomi Pad 5 China
+- NABU
+nabu_eea_global:
+- Xiaomi Pad 5 EEA
+- NABUEEAGlobal
+nabu_global:
+- Xiaomi Pad 5 Global
+- NABUGlobal
+nabu_ru_global:
+- Xiaomi Pad 5 Russia
+- NABURUGlobal
+nabu_tr_global:
+- Xiaomi Pad 5 Turkey
+- NABUTRGlobal
+nabu_tw_global:
+- Xiaomi Pad 5 Taiwan
+- NABUTWGlobal
 natrium:
 - Mi 5s Plus China
 - MI5SPlus
@@ -760,6 +880,9 @@ nitrogen_global:
 nitrogen_ru_global:
 - Mi Max 3 Russia
 - NITROGENRUGlobal
+odin:
+- MIX 4 China
+- ODIN
 olive:
 - Redmi 8 China
 - OLIVE
@@ -934,6 +1057,9 @@ renoir_global:
 renoir_id_global:
 - Mi 11 Lite 5G Indonesia
 - IDRENOIRGlobal
+renoir_jp_global:
+- Mi 11 Lite 5G Japan
+- RENOIRJPGlobal
 renoir_ru_global:
 - Mi 11 Lite 5G Russia
 - RENOIRRUGlobal
@@ -955,6 +1081,27 @@ rolex:
 rolex_global:
 - Redmi 4A Global
 - HM4AGlobal
+rosemary_eea_global:
+- Redmi Note 10S EEA
+- ROSEMARYEEAGlobal
+rosemary_global:
+- Redmi Note 10S Global
+- ROSEMARYGlobal
+rosemary_id_global:
+- Redmi Note 10S Indonesia
+- ROSEMARYIDGlobal
+rosemary_in_global:
+- Redmi Note 10S India
+- ROSEMARYINGlobal
+rosemary_ru_global:
+- Redmi Note 10S Russia
+- ROSEMARYRUGlobal
+rosemary_tr_global:
+- Redmi Note 10S Turkey
+- ROSEMARYRUGlobal
+rosemary_tw_global:
+- Redmi Note 10S Taiwan
+- ROSEMARYRUGlobal
 rosy:
 - Redmi 5 China
 - HM5
@@ -988,12 +1135,51 @@ scorpio:
 scorpio_global:
 - Mi Note 2 Global
 - MINote2Global
+selene_eea_global:
+- Redmi 10 EEA
+- SELENEEEAGlobal
+selene_global:
+- Redmi 10 Global
+- SELENEGlobal
+selene_id_global:
+- Redmi 10 Indonesia
+- SELENEIDGlobal
+selene_in_global:
+- Redmi 10 Prime India
+- SELENEINGlobal
+selene_ru_global:
+- Redmi 10 Russia
+- SELENERUGlobal
+selene_tr_global:
+- Redmi 10 Turkey
+- SELENETRGlobal
+selene_tw_global:
+- Redmi 10 Taiwan
+- SELENETWGlobal
 shiva_in_global:
 - POCO M2 India
 - SHIVAINGlobal
 sirius:
 - Mi 8 SE China
 - MI8SE
+star:
+- Mi 11 Pro / Ultra China
+- STAR
+star_eea_global:
+- Mi 11 Ultra EEA
+- STAREEAGlobal
+star_global:
+- Mi 11 Ultra Global
+- STARGlobal
+star_id_global:
+- Mi 11 Ultra Indonesia
+- STARIDGlobal
+star_in_global:
+- Mi 11 Ultra India
+- STARINGlobal
+star_ru_global:
+- Mi 11 Ultra Russia
+- STARRUGlobal
 surya_eea_global:
 - POCO X3 NFC EEA
 - SURYAEEAGlobal
@@ -1012,9 +1198,6 @@ surya_ru_global:
 surya_tr_global:
 - POCO X3 NFC Turkey
 - SURYATRGlobal
-sweet:
-- Redmi Note 10 Pro China
-- SWEET
 sweet_eea_global:
 - Redmi Note 10 Pro EEA
 - SWEETEEAGlobal
@@ -1123,6 +1306,9 @@ umi_in_global:
 umi_ru_global:
 - Mi 10 Russia
 - UMIRUGlobal
+umi_tr_global:
+- Mi 10 Turkey
+- UMITRGlobal
 ursa:
 - Mi 8 Explorer China
 - MI8Explorer
@@ -1147,6 +1333,9 @@ vayu_ru_global:
 vayu_tr_global:
 - POCO X3 Pro Turkey
 - VAYUTRGlobal
+vayu_tw_global:
+- POCO X3 Pro Taiwan
+- VAYUTWGlobal
 vela:
 - Mi CC 9 Meitu Edition China
 - VELA
@@ -1159,6 +1348,9 @@ venus_eea_global:
 venus_global:
 - Mi 11 Global
 - VENUSGlobal
+venus_id_global:
+- Mi 11 Indonesia
+- VENUSIDGlobal
 venus_in_global:
 - Mi 11 India
 - VENUSINGlobal
@@ -1171,6 +1363,27 @@ venus_tr_global:
 venus_tw_global:
 - Mi 11 Taiwan
 - VENUSTWGlobal
+vili_eea_global:
+- Xiaomi 11T Pro EEA
+- VILIEEAGlobal
+vili_global:
+- Xiaomi 11T Pro Global
+- VILIGlobal
+vili_id_global:
+- Xiaomi 11T Pro Indonesia
+- VILIIDGlobal
+vili_jp_global:
+- Xiaomi 11T Pro Japan
+- VILIJPGlobal
+vili_ru_global:
+- Xiaomi 11T Pro Russia
+- VILIRUGlobal
+vili_tr_global:
+- Xiaomi 11T Pro Turkey
+- VILITRGlobal
+vili_tw_global:
+- Xiaomi 11T Pro Taiwan
+- VILITWGlobal
 vince:
 - Redmi 5 Plus China
 - HM5Plus
