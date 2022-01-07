@@ -89,7 +89,7 @@ angelica_tr_global:
 - Redmi 9C Turkey
 - ANGELICATRGlobal
 angelicain_in_global:
-- POCO C3 / C31 India
+- POCO C3 India
 - ANGELICAININGlobal
 angelican_eea_global:
 - Redmi 9C NFC EEA
@@ -367,6 +367,9 @@ courbet_tr_global:
 crux:
 - Mi 9 Pro 5G China
 - CRUX
+cupid:
+- Xiaomi 12 China
+- CUPID
 curtana_eea_global:
 - Redmi Note 9S EEA
 - CURTANAEEAGlobal
@@ -451,6 +454,30 @@ equuleus_global:
 equuleus_ru_global:
 - Mi 8 Pro Russia
 - MI8ProRUGlobal
+evergo:
+- Redmi Note 11 5G China
+- EVERGO
+evergo_in_global:
+- Redmi Note 11T 5G India
+- EVERGOINGlobal
+evergreen_eea_global:
+- POCO M4 Pro 5G EEA
+- EVERGREENEEAGlobal
+evergreen_global:
+- POCO M4 Pro 5G Global
+- EVERGREENGlobal
+evergreen_id_global:
+- POCO M4 Pro 5G Indonesia
+- EVERGREENIDGlobal
+evergreen_ru_global:
+- POCO M4 Pro 5G Russia
+- EVERGREENRUGlobal
+evergreen_tr_global:
+- POCO M4 Pro 5G Turkey
+- EVERGREENTRGlobal
+evergreen_tw_global:
+- POCO M4 Pro 5G Taiwan
+- EVERGREENTWGlobal
 excalibur_in_global:
 - Redmi Note 9 Pro Max India
 - EXCALIBURINGlobal
@@ -475,6 +502,9 @@ gauguin_in_global:
 gauguin_ru_global:
 - Mi 10T Lite Russia
 - GAUGUINRUGlobal
+gauguin_tr_global:
+- Mi 10T Lite Turkey
+- GAUGUINTRGlobal
 gauguin_tw_global:
 - Mi 10T Lite Taiwan
 - GAUGUINTWGlobal
@@ -704,7 +734,7 @@ lime_tw_global:
 - Redmi 9T Taiwan
 - LIMETWGlobal
 lisa:
-- Xiaomi 11 Lite 5G NE China
+- Mi 11 LE China
 - LISA
 lisa_eea_global:
 - Xiaomi 11 Lite 5G NE EEA
@@ -991,6 +1021,12 @@ pine_ru_global:
 pisces:
 - MI 3 TD China
 - MI3TD
+pissarro:
+- Redmi Note 11 Pro / Pro+ China
+- PISSARRO
+pissarro_in_global:
+- Xiaomi 11i India
+- PISSARROINGlobal
 platina:
 - Mi 8 Lite China
 - MI8Lite
@@ -1015,6 +1051,9 @@ prada:
 prada_global:
 - Redmi 4 Global
 - HM4Global
+psyche:
+- Xiaomi 12X China
+- PSYCHE
 pyxis:
 - Mi CC 9 China
 - PYXIS
@@ -1156,6 +1195,9 @@ selene_tr_global:
 selene_tw_global:
 - Redmi 10 Taiwan
 - SELENETWGlobal
+selenes:
+- Redmi Note 11 4G China
+- SELENE
 shiva_in_global:
 - POCO M2 India
 - SHIVAINGlobal
@@ -1459,3 +1501,6 @@ ysl_global:
 ysl_ru_global:
 - Redmi S2 Russia
 - HMS2RUGlobal
+zeus:
+- Xiaomi 12 Pro China
+- ZEUS
