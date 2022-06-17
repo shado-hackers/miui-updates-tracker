@@ -1,4 +1,284 @@
 - branch: F
+  codename: light_global
+  device: Redmi 10 5G
+  id: 1358
+  region: global
+- branch: F
+  codename: ingres_global
+  device: POCO F4 GT
+  id: 1354
+  region: global
+- branch: F
+  codename: ingres_tw_global
+  device: POCO F4 GT
+  id: 1355
+  region: global
+- branch: F
+  codename: opal_global
+  device: Redmi note 11s 5G
+  id: 1347
+  region: global
+- branch: F
+  codename: opal_eea_global
+  device: Redmi note 11s 5G
+  id: 1348
+  region: eea
+- branch: F
+  codename: opal_tw_global
+  device: Redmi note 11s 5G
+  id: 1357
+  region: global
+- branch: F
+  codename: dandelion_c3l2_global
+  device: Redmi 10A
+  id: 1351
+  region: global
+- branch: F
+  codename: dandelion_c3l2_tw_global
+  device: Redmi 10A
+  id: 1344
+  region: global
+- branch: F
+  codename: veux_global
+  device: POCO X4 Pro 5G
+  id: 1342
+  region: global
+- branch: F
+  codename: pissarro_global
+  device: Redmi Note 11 Pro+ 5G
+  id: 1341
+  region: global
+- branch: F
+  codename: pissarro_tw_global
+  device: Redmi Note 11 Pro+ 5G
+  id: 1349
+  region: global
+- branch: F
+  codename: psyche_global
+  device: Xiaomi 12X
+  id: 1336
+  region: global
+- branch: F
+  codename: psyche_eea_global
+  device: Xiaomi 12X
+  id: 1337
+  region: eea
+- branch: F
+  codename: psyche_ru_global
+  device: Xiaomi 12X
+  id: 1338
+  region: global
+- branch: F
+  codename: psyche_tw_global
+  device: Xiaomi 12X
+  id: 1339
+  region: global
+- branch: F
+  codename: fog_global
+  device: Redmi 10C
+  id: 1330
+  region: global
+- branch: F
+  codename: fog_in_global
+  device: Redmi 10C
+  id: 1331
+  region: in
+- branch: F
+  codename: fog_tw_global
+  device: Redmi 10C
+  id: 1343
+  region: global
+- branch: F
+  codename: fog_ru_global
+  device: Redmi 10C
+  id: 1346
+  region: global
+- branch: F
+  codename: fog_eea_global
+  device: Redmi 10C
+  id: 1350
+  region: eea
+- branch: F
+  codename: cupid_global
+  device: Xiaomi 12
+  id: 1325
+  region: global
+- branch: F
+  codename: cupid_eea_global
+  device: Xiaomi 12
+  id: 1326
+  region: eea
+- branch: F
+  codename: cupid_tw_global
+  device: Xiaomi 12
+  id: 1327
+  region: global
+- branch: F
+  codename: cupid_id_global
+  device: Xiaomi 12
+  id: 1328
+  region: global
+- branch: F
+  codename: cupid_ru_global
+  device: Xiaomi 12
+  id: 1329
+  region: global
+- branch: F
+  codename: zeus_global
+  device: Xiaomi 12 Pro
+  id: 1321
+  region: global
+- branch: F
+  codename: zeus_tw_global
+  device: Xiaomi 12 Pro
+  id: 1322
+  region: global
+- branch: F
+  codename: zeus_id_global
+  device: Xiaomi 12 Pro
+  id: 1323
+  region: global
+- branch: F
+  codename: zeus_ru_global
+  device: Xiaomi 12 Pro
+  id: 1324
+  region: global
+- branch: F
+  codename: zeus_eea_global
+  device: Xiaomi 12 Pro
+  id: 1332
+  region: eea
+- branch: F
+  codename: spesn_eea_global
+  device: Redmi Note 11 NFC
+  id: 1320
+  region: eea
+- branch: F
+  codename: viva_global
+  device: Redmi Note 11 Pro
+  id: 1318
+  region: global
+- branch: F
+  codename: viva_tw_global
+  device: Redmi Note 11 Pro
+  id: 1340
+  region: global
+- branch: F
+  codename: viva_eea_global
+  device: Redmi Note 11 Pro
+  id: 1352
+  region: eea
+- branch: F
+  codename: viva_ru_global
+  device: Redmi Note 11 Pro
+  id: 1356
+  region: global
+- branch: F
+  codename: veux_global
+  device: Redmi Note 11 Pro 5G
+  id: 1313
+  region: global
+- branch: F
+  codename: veux_ru_global
+  device: Redmi Note 11 Pro 5G
+  id: 1314
+  region: global
+- branch: F
+  codename: veux_eea_global
+  device: Redmi Note 11 Pro 5G
+  id: 1315
+  region: eea
+- branch: F
+  codename: veux_tr_global
+  device: Redmi Note 11 Pro 5G
+  id: 1316
+  region: global
+- branch: F
+  codename: veux_tw_global
+  device: Redmi Note 11 Pro 5G
+  id: 1317
+  region: global
+- branch: F
+  codename: fleur_global
+  device: POCO M4 Pro
+  id: 1308
+  region: global
+- branch: F
+  codename: fleur_in_global
+  device: POCO M4 Pro
+  id: 1309
+  region: in
+- branch: F
+  codename: fleur_eea_global
+  device: POCO M4 Pro
+  id: 1310
+  region: eea
+- branch: F
+  codename: fleur_ru_global
+  device: POCO M4 Pro
+  id: 1311
+  region: global
+- branch: F
+  codename: fleur_tw_global
+  device: POCO M4 Pro
+  id: 1312
+  region: global
+- branch: F
+  codename: evergreen_ru_global
+  device: POCO M4 Pro 5G
+  id: 1319
+  region: global
+- branch: F
+  codename: fleur_id_global
+  device: POCO M4 Pro
+  id: 1333
+  region: global
+- branch: F
+  codename: fleur_tr_global
+  device: POCO M4 Pro
+  id: 1334
+  region: global
+- branch: F
+  codename: fleur_global
+  device: Redmi note 11S
+  id: 1301
+  region: global
+- branch: F
+  codename: fleur_in_global
+  device: Redmi note 11S
+  id: 1302
+  region: in
+- branch: F
+  codename: fleur_eea_global
+  device: Redmi note 11S
+  id: 1303
+  region: eea
+- branch: F
+  codename: fleur_ru_global
+  device: Redmi note 11S
+  id: 1304
+  region: global
+- branch: F
+  codename: fleur_tw_global
+  device: Redmi note 11S
+  id: 1307
+  region: global
+- branch: F
+  codename: fleur_tr_global
+  device: Redmi note 11S
+  id: 1335
+  region: global
+- branch: F
+  codename: spes_global
+  device: Redmi note 11
+  id: 1299
+  region: global
+- branch: F
+  codename: spesn_ru_global
+  device: Redmi note 11
+  id: 1300
+  region: global
+- branch: F
   codename: evergreen_global
   device: POCO M4 Pro 5G
   id: 1293
@@ -138,6 +418,11 @@
   device: Redmi 10
   id: 1289
   region: eea
+- branch: F
+  codename: selene_tr_global
+  device: Redmi 10
+  id: 1345
+  region: global
 - branch: F
   codename: chopin_global
   device: POCO X3 GT
@@ -477,6 +762,11 @@
   codename: cannong_ru_global
   device: Redmi Note 9T
   id: 1176
+  region: global
+- branch: F
+  codename: cannong_global
+  device: Redmi Note 9T
+  id: 1306
   region: global
 - branch: F
   codename: citrus_id_global
