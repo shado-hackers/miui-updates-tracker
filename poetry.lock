@@ -592,14 +592,14 @@ test = ["hypothesis (>=1.11.4,!=3.79.2)", "iso8601", "pretend", "pytest (>=6.2.0
 
 [[package]]
 name = "discord-py"
-version = "2.1.0"
+version = "2.2.2"
 description = "A Python wrapper for the Discord API"
 category = "main"
 optional = false
 python-versions = ">=3.8.0"
 files = [
-    {file = "discord.py-2.1.0-py3-none-any.whl", hash = "sha256:a2cfa9f09e3013aaaa43600cc8dfaf67c532dd34afcb71e550f5a0dc9133a5e0"},
-    {file = "discord.py-2.1.0.tar.gz", hash = "sha256:027ccdd22b5bb66a9e19cbd8daa1bc74b49271a16a074d57e52f288fcfa208e8"},
+    {file = "discord.py-2.2.2-py3-none-any.whl", hash = "sha256:38fc52a784727b8e5e5749267089400035b187a009028eddfabeb182abcc6d52"},
+    {file = "discord.py-2.2.2.tar.gz", hash = "sha256:b9944056bcb5711b2d04088848fd004466cf117c15c84fa798bf55470f28275f"},
 ]
 
 [package.dependencies]
@@ -1782,4 +1782,4 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "29c0285962c795eaf9a2de85a070d4ae8e638e93a2117110a2e030b6cf88082f"
+content-hash = "3f8586bed0e9f163f7e3fb6dd20820287a37effa9ed258e1f2ffd8cd83fcb724"
